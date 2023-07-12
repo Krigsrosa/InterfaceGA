@@ -1,0 +1,13 @@
+{
+    "class": "Micro", 
+    "min_values": "[1.00,0.000,0.100,1]",
+    "max_values": "[1.12,0.123,0.312,9]",
+    "num_variables": "4",
+    "num_generations": "100",
+    "elite_count": "5",
+    "elitism": "Local",
+    "n_threads": "-1",
+    "selection": "Tournament",
+    "crossover": "1-Point",
+    "mutation": "Gaussian"
+}
